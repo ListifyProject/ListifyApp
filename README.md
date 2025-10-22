@@ -2,7 +2,7 @@
     <h1>Listify</h1>
     <p>- the application where you can achieve your goals.</p>
     <a href="#about-project">About</a> •
-    <a href="#pensieve-features">Features</a> •
+    <a href="#listify-features">Features</a> •
     <a href="#components-of-the-application">Components</a> •
     <a href="#about-authors">Authors</a>
     <h2></h2>
@@ -10,7 +10,7 @@
 
 ## About project:
 
-**Listify** is an application where people create to do lists and achieve their goals.
+**Listify** is an application where pxeople create to do lists and achieve their goals.
 
 ## Features:
 - **Users:** register, login.
@@ -20,7 +20,7 @@
 - **Security:** only users you approve can edit your lists.
 
 ## Components of the application: 
-Pensieve consist of [Server](https://github.com/ListifyProject/ListifyServer) and [Android](https://github.com/ListifyProject/ListifyApp) parts. To run the application you should download both parts.
+Listify consist of [Server](https://github.com/ListifyProject/ListifyServer) and [Android](https://github.com/ListifyProject/ListifyApp) parts. To run the application you should download both parts.
 
 You can see the installation instructions in [README for Server](https://github.com/ListifyProject/ListifyServer/blob/main/README.md)
 

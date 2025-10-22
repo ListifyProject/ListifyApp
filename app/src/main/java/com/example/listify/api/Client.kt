@@ -1,4 +1,4 @@
-package ru.hse.pensieve.api
+package com.example.listify.api
 
 import android.content.Context
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
